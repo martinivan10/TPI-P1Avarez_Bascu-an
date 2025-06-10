@@ -11,16 +11,16 @@ Instrucciones de Uso
 1.	Búsqueda Binaria:
 
     o	El programa genera automáticamente un inventario de 1000 códigos únicos y ordenados.
-    o	El usuario ingresa un código de producto.
-    o	Se aplica la búsqueda binaria para encontrar si el código existe.
-    o	El programa informa si el código fue encontrado o no.
-    o	Se incluye manejo de errores para entradas inválidas.
+  	o	El usuario ingresa un código de producto.
+  	o	Se aplica la búsqueda binaria para encontrar si el código existe.
+  	o	El programa informa si el código fue encontrado o no.
+  	o	Se incluye manejo de errores para entradas inválidas.
 
-2.	Ordenamiento por Inserción:
+3.	Ordenamiento por Inserción:
 
     o	Se define una lista de números desordenados.
-    o	Se aplica el algoritmo de ordenamiento por inserción.
-    o	Se imprime la lista antes y después de ser ordenada.
+  	o	Se aplica el algoritmo de ordenamiento por inserción.
+  	o	Se imprime la lista antes y después de ser ordenada.
 
 Reflexiones del Equipo
 
